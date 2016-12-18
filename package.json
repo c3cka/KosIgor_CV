@@ -1,0 +1,15 @@
+{
+    "name": "KosIgor_CV_samostalni",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Igor_Kos_Cecka",
+    "contributors": [
+    ],
+    "dependencies": {}
+}
